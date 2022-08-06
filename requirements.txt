@@ -5,5 +5,5 @@ plotly==5.7.0
 streamlit==1.8.1
 yfinance==0.1.70
 cmdstanpy==0.9.5
-fbprophet==0.7.1
+prophet
 
