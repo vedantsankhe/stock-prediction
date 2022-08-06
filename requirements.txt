@@ -1,9 +1,12 @@
 matplotlib==3.5.1
-numpy==1.21.5
-Cython>=0.22
-plotly==5.7.0
-streamlit==1.8.1
-yfinance==0.1.70
-cmdstanpy==0.9.5
-prophet
+Cython
+numpy
+pandas
+matplotlib
+convertdate
+pystan==2.19.1.1
+yfinance
+streamlit
+plotly
+fbprophet
 
