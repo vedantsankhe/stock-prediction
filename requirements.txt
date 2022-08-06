@@ -1,10 +1,10 @@
-pystan==2.19.1.1
+streamlit==0.61.0
+pandas==1.1.4
+numpy==1.19.1
+scikit-learn==0.23.2
+matplotlib==3.3.3
+pystan==2.17.0.0
+plotly==4.14.3
 fbprophet==0.7.1
-matplotlib==3.5.1
-numpy==1.21.5
-Cython>=0.22
-plotly==5.7.0
-streamlit==1.8.1
-yfinance==0.1.70
-cmdstanpy==0.9.5
+cryptocmd==0.6.0
 
