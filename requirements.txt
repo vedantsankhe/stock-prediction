@@ -5,3 +5,4 @@ plotly==5.7.0
 streamlit==1.8.1
 yfinance==0.1.70
 pystan==2.14
+cython>=0.22
