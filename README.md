@@ -1,3 +1,6 @@
 # Stock Market Prediction
 
-This is the Sample ReadMe File created using Notepad++ uploaded via Git.
+This Project is created for Educational Purpose Only.
+
+## Check It Out Here
+[Stock Prediction](https://vedu-stockpredict.herokuapp.com/)
