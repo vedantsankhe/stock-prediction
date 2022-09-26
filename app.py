@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
-st.title('Stock Forecast App')
+st.title(' Stock App')
 
 START = "2015-01-01"
 TODAY = date.today().strftime("%Y-%m-%d")
