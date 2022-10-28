@@ -95,5 +95,7 @@ if "Forecast" in option:
   forecast()
 if "Buy And Sell Calls" in option:
   predict()
+if "MACD" in option:
+  predict_macd()
 
 
