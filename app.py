@@ -15,7 +15,7 @@ st.set_option('deprecation.showPyplotGlobalUse', False)
 
 st.title('Stock Forecast App')
 
-START = "2015-01-01"
+START = "2020-01-01"
 TODAY = date.today().strftime("%Y-%m-%d")
 
 selected_stock = (st.text_input("Enter Stock Name")).upper()
